@@ -1,4 +1,4 @@
-### EXTRAER EL ARCHIVO "node_modules.rar" ANTES DE EJECUTAR LA APLICACION ###
+### EJECUTAR npm install EN EL TERMINAL ANTES DE INICIALIZAR LA APP ###
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
