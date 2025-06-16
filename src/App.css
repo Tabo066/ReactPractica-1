@@ -1,0 +1,35 @@
+.App{
+height: 100vh;
+padding-top: 1opx;
+background-color: #000;
+font-family: Lato, sans-serif;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-wrap: wrap;
+}
+.logo-contenedor{
+    width: 100%;
+    height: 50px;
+    margin: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logofc{
+    height: 40px;
+}
+.contenedor-calculadora{
+    width: 400px;
+    height: 600px;
+    padding: 14px;
+    background-color: aqua;
+    border-radius: 20px;
+    border: 5px solid #fff;
+}
+.fila{
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
